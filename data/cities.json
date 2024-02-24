@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Belchite",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-17T17:12:23.082Z",
+      "notes": "",
+      "position": {
+        "lat": "41.32732632036624",
+        "lng": "-0.7910156250000001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Pozoblanco",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-17T17:53:00.747Z",
+      "notes": "",
+      "position": {
+        "lat": 38.11727165830543,
+        "lng": -4.855957031250001
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Alcaraz",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-03T06:21:26.103Z",
+      "notes": "",
+      "position": {
+        "lat": 38.651197619187215,
+        "lng": -2.4803000027327764
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Lles de Cerdanya",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-03T06:32:28.267Z",
+      "notes": "",
+      "position": {
+        "lat": 42.45588739554282,
+        "lng": 1.6097993909337973
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Visan",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-03T06:32:48.562Z",
+      "notes": "",
+      "position": {
+        "lat": 44.323847775411,
+        "lng": 5.016975697426581
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Nafpaktos",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2023-11-03T06:33:33.661Z",
+      "notes": "",
+      "position": {
+        "lat": 38.754082048704,
+        "lng": 21.990510232637483
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Fundulea",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2023-11-19T08:07:27.108Z",
+      "notes": "hgdhgf",
+      "position": {
+        "lat": 44.403079116277006,
+        "lng": 26.586914062500004
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Marks",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-11-19T08:08:26.489Z",
+      "notes": "",
+      "position": {
+        "lat": 51.53499117974367,
+        "lng": 46.86767578125
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Medina del Campo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-24T06:15:46.734Z",
+      "notes": "dd",
+      "position": {
+        "lat": 41.29284654482231,
+        "lng": -4.94241422781683
+      },
+      "id": 98443208
+    }
+  ]
+}
